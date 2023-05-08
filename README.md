@@ -1,17 +1,20 @@
+<div id="top" align="center">
+    <img src="https://user-images.githubusercontent.com/116239970/236704479-b081b30e-ca73-416e-9f09-29f41825f708.gif" width="200"/>
+    <h1 align="center">Hi! 🦉</h1>
+</div>
 
-   ![200w](https://user-images.githubusercontent.com/116239970/236704479-b081b30e-ca73-416e-9f09-29f41825f708.gif)
-# Hi! 🦉
-<!--
-**FelipeSaCh/FelipeSaCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fifth semester of Software Engineering 🧑‍💻
+
+
+- Training me in : Python, Web development, databases
+
+
+--
+
+### Contact :
+
+- email : andresfsc234@gmail.com
