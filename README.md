@@ -7,14 +7,9 @@
 
 ### About me :
 
-- Fifth semester of Software Engineering 🧑‍💻
-
-
+- Fifth semester of Software Engineering 
 - Training me in : Python, Web development, databases
-
-
 --
-
 ### Contact :
 
 - email : andresfsc234@gmail.com
