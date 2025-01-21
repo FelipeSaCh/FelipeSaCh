@@ -7,7 +7,7 @@
 
 ### About me :
 
-- Fifth semester of Software Engineering 
+- Ninth semester of Software Engineering 
 - Training me in : Python, Web development, databases.
 
 ### Contact :
